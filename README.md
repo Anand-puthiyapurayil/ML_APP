@@ -2,6 +2,12 @@
 
 This repository hosts a dynamic Machine Learning application designed to facilitate seamless data analysis and model building. It enables users to easily upload datasets, select desired columns and target variables, and perform various machine learning tasks including classification, prediction, and clustering—all through an interactive Streamlit interface.
 
+
+## 🚀 Demo
+
+
+![](assets/dynamic.png)
+
 ---
 
 ## 🚀 Features
